@@ -1,12 +1,10 @@
 [
-  {
-    "caption": "Avada Kedavra",
-    "author": "You know who"
-    
-  },
-  {
-    "caption": "Dont Be afraid from Voldemort",
-    "author": "Albus Dumbledore"
-  }
-  
+    {
+        "author": "Apoorv Goyal",
+        "caption": "Caption 1"
+    },
+    {
+        "author": "Ayush Goyal",
+        "caption": "Caption 2"
+    }
 ]
